@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vishwa!
+# Hi there 👋, I'm Himanshu!
 
 Welcome to my GitHub profile! I'm passionate about building web applications and exploring new technologies. Here you'll find a collection of my projects showcasing my skills in JavaScript, HTML, CSS, MERN stack development, and more.
 
