@@ -10,7 +10,7 @@ Full-stack developer with internship/freelance experience, building web applicat
 - 🔧 Comfortable with RESTful APIs, database design, and Supabase for backend/cloud work
 - 🎨 Use Tailwind CSS and Bootstrap for responsive, clean UI
 - 📌 Open to internship / junior developer opportunities — let's connect!
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/himanshu-k-54aba5227/) · [ADD EMAIL] · [ADD PORTFOLIO LINK]
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/himanshu-k-54aba5227/) · [EMAIL](hivishwakarma502@gmail.com) · [HIMANSHU.DEV](https://new-portfolio-bay-xi.vercel.app/)
 
 ## 📂 Featured Projects
 
