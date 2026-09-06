@@ -16,28 +16,28 @@ Full-stack developer with internship/freelance experience, building web applicat
 
 ### [WelthAi — Finance Platform](https://github.com/H-vishwa/WelthAi-Finance-Platform)
 AI-powered wealth management platform with insights on spending and savings.
-**Stack:** [ADD SPECIFICS — e.g. React, Node.js, PostgreSQL, OpenAI API]
+**Stack:** [Next.js, React.js, Tailwind CSS, PostgreSQL, Prisma, Clerk, Gemini API, Inngest, Arcjet, Resend]
 🔗 [Live Demo](https://welth-ai-finance-platform-orpin.vercel.app/)
 
 ### [InterviewIQ](https://github.com/H-vishwa/InterviewIQ)
 AI-driven mock interview platform that simulates real interview questions and gives feedback.
-**Stack:** [ADD SPECIFICS]
+**Stack:** [React.js, Node.js, Express.js, MongoDB, Render, AI APIs, Payment Gateway]
 🔗 [Live Demo](https://interviewiq-client-sw9d.onrender.com/)
 
 ### [Car Rental App](https://github.com/H-vishwa/Car-Rental)
 Car rental booking application with an intuitive browsing and reservation flow.
-**Stack:** [ADD SPECIFICS]
+**Stack:** [React, Vite, Tailwind CSS, shadcn/ui, Node.js, Express.js, MongoDB, Mongoose, JWT, ImageKit, Multer, Vercel]
 🔗 [Live Demo](https://car-rental-six-ivory.vercel.app/)
 
 ### [IPrep-AI](https://github.com/H-vishwa/IPrep-AI)
 Interview preparation resource hub with curated content and practice tools.
-**Stack:** HTML, CSS, JavaScript
+**Stack:** React, Vite, Tailwind CSS, Node.js, Express.js, MongoDB Database, Mongoose, JWT Auth, Google Gemini API
 🔗 [Live Demo](https://iprep-ai-1.onrender.com/)
 
 ### [Omnifood](https://github.com/H-vishwa/Omnifood)
 Responsive food delivery landing page with modern UI/UX.
 **Stack:** HTML, CSS, JavaScript
-🔗 [Live Demo](ADD-LINK)
+🔗 [Live Demo](https://omni-food-rho.vercel.app/)
 
 ### [Portfolio](https://github.com/H-vishwa/NewPortfolio)
 My personal portfolio site showcasing projects and experience.
