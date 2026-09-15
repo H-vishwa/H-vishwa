@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Himanshu!
 
-Full-stack developer with internship/freelance experience, building web applications with JavaScript, React, Next.js, Node.js, and PostgreSQL. I enjoy turning ideas into working products — from AI-powered tools to fintech and learning platforms.
+Full-stack developer with internship/freelance experience, building web applications with JavaScript, React, Next.js, Node.js, and PostgreSQL. I enjoy turning ideas into working products — from AI-powered platforms to seamless user experiences.
 
 ## 🚀 About Me
 
@@ -45,26 +45,91 @@ My personal portfolio site showcasing projects and experience.
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Backend & Database**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-009688?style=flat-square&logo=api&logoColor=white)
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/>
+        <br>Python
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=go" width="50" height="50" alt="Go"/>
+        <br>Go
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C++"/>
+        <br>C++
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=typescript" width="50" height="50" alt="TypeScript"/>
+        <br>TypeScript
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript"/>
+        <br>JavaScript
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React"/>
+        <br>React
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
+        <br>Next.js
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/>
+        <br>Node.js
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express"/>
+        <br>Express
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50" alt="PostgreSQL"/>
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB"/>
+        <br>MongoDB
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=supabase" width="50" height="50" alt="Supabase"/>
+        <br>Supabase
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=tailwindcss" width="50" height="50" alt="Tailwind CSS"/>
+        <br>Tailwind CSS
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap"/>
+        <br>Bootstrap
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5"/>
+        <br>HTML5
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3"/>
+        <br>CSS3
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/>
+        <br>Git
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker"/>
+        <br>Docker
+      </td>
+    </tr>
+    <tr>
+      <td colspan="9" align="center">
+        <strong>+ AI/ML Layer:</strong> Gemini API · Claude · LangGraph · MCP · Ollama
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
