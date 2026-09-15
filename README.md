@@ -1,9 +1,34 @@
+<style>
+@keyframes wave {
+  0% {
+    background-position: 0 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0 50%;
+  }
+}
+
+.wave-gradient {
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  background-size: 400% 400%;
+  animation: wave 15s ease infinite;
+  height: 200px;
+  width: 100%;
+  border-radius: 10px;
+}
+</style>
+
+<div class="wave-gradient"></div>
+
 # Hi there 👋, I'm Himanshu! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-k-54aba5227/) 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hivishwakarma502@gmail.com) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://new-portfolio-bay-xi.vercel.app/)
 
-Full-stack developer with internship/freelance experience, building web applications with JavaScript, React, Next.js, Node.js, and PostgreSQL. I enjoy turning ideas into working products — from AI-powered fintech platforms to interview prep tools.
+Full-stack developer with internship/freelance experience, building web applications with JavaScript, React, Next.js, Node.js, and PostgreSQL. I enjoy turning ideas into working products — from A[...]
 
 ## 🚀 About Me
 
