@@ -53,7 +53,6 @@ My personal portfolio site showcasing projects and experience.
   <br>
   <img src="https://skillicons.dev/icons?i=python,cpp,tailwindcss,bootstrap,html,css,git,postman" />
   <br>
-  <strong>+ AI/ML Layer:</strong> LangGraph · MCP · Claude · Ollama · Eval Harnesses
 </div>
 
 ---
