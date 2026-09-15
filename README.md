@@ -46,89 +46,11 @@ My personal portfolio site showcasing projects and experience.
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <table style="border-collapse: collapse; width: 100%; max-width: 900px; margin: 0 auto;">
-    <tr>
-      <td align="center" style="padding: 15px; min-width: 90px;">
-        <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/>
-        <br><strong>Python</strong>
-      </td>
-      <td align="center" style="padding: 15px; min-width: 90px;">
-        <img src="https://skillicons.dev/icons?i=go" width="50" height="50" alt="Go"/>
-        <br><strong>Go</strong>
-      </td>
-      <td align="center" style="padding: 15px; min-width: 90px;">
-        <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C++"/>
-        <br><strong>C++</strong>
-      </td>
-      <td align="center" style="padding: 15px; min-width: 90px;">
-        <img src="https://skillicons.dev/icons?i=typescript" width="50" height="50" alt="TypeScript"/>
-        <br><strong>TypeScript</strong>
-      </td>
-      <td align="center" style="padding: 15px; min-width: 90px;">
-        <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript"/>
-        <br><strong>JavaScript</strong>
-      </td>
-      <td align="center" style="padding: 15px; min-width: 90px;">
-        <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React"/>
-        <br><strong>React</strong>
-      </td>
-      <td align="center" style="padding: 15px; min-width: 90px;">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
-        <br><strong>Next.js</strong>
-      </td>
-      <td align="center" style="padding: 15px; min-width: 90px;">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/>
-        <br><strong>Node.js</strong>
-      </td>
-      <td align="center" style="padding: 15px; min-width: 90px;">
-        <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express"/>
-        <br><strong>Express</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 15px; min-width: 90px;">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50" alt="PostgreSQL"/>
-        <br><strong>PostgreSQL</strong>
-      </td>
-      <td align="center" style="padding: 15px; min-width: 90px;">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB"/>
-        <br><strong>MongoDB</strong>
-      </td>
-      <td align="center" style="padding: 15px; min-width: 90px;">
-        <img src="https://skillicons.dev/icons?i=supabase" width="50" height="50" alt="Supabase"/>
-        <br><strong>Supabase</strong>
-      </td>
-      <td align="center" style="padding: 15px; min-width: 90px;">
-        <img src="https://skillicons.dev/icons?i=tailwindcss" width="50" height="50" alt="Tailwind CSS"/>
-        <br><strong>Tailwind CSS</strong>
-      </td>
-      <td align="center" style="padding: 15px; min-width: 90px;">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap"/>
-        <br><strong>Bootstrap</strong>
-      </td>
-      <td align="center" style="padding: 15px; min-width: 90px;">
-        <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5"/>
-        <br><strong>HTML5</strong>
-      </td>
-      <td align="center" style="padding: 15px; min-width: 90px;">
-        <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3"/>
-        <br><strong>CSS3</strong>
-      </td>
-      <td align="center" style="padding: 15px; min-width: 90px;">
-        <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/>
-        <br><strong>Git</strong>
-      </td>
-      <td align="center" style="padding: 15px; min-width: 90px;">
-        <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker"/>
-        <br><strong>Docker</strong>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="9" align="center" style="padding: 20px; font-weight: bold;">
-        <strong>+ AI/ML Layer:</strong> Gemini API · Claude · LangGraph · MCP · Ollama
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=python,go,cpp,typescript,javascript,react,nextjs,nodejs,express" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,supabase,tailwindcss,bootstrap,html,css,git,docker" />
+  <br>
+  <strong>+ AI/ML Layer:</strong> LangGraph · MCP · Claude · Ollama · Eval Harnesses
 </div>
 
 ---
