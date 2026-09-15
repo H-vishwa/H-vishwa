@@ -1,6 +1,9 @@
-# Hi there 👋, I'm Himanshu!
+# Hi there 👋, I'm Himanshu! 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-k-54aba5227/) 
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hivishwakarma502@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://new-portfolio-bay-xi.vercel.app/)
 
-Full-stack developer with internship/freelance experience, building web applications with JavaScript, React, Next.js, Node.js, and PostgreSQL. I enjoy turning ideas into working products — from AI-p[...]
+Full-stack developer with internship/freelance experience, building web applications with JavaScript, React, Next.js, Node.js, and PostgreSQL. I enjoy turning ideas into working products — from AI-powered fintech platforms to interview prep tools.
 
 ## 🚀 About Me
 
@@ -10,7 +13,7 @@ Full-stack developer with internship/freelance experience, building web applicat
 - 🔧 Comfortable with RESTful APIs, database design, and Supabase for backend/cloud work
 - 🎨 Use Tailwind CSS and Bootstrap for responsive, clean UI
 - 📌 Open to internship / junior developer opportunities — let's connect!
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/himanshu-k-54aba5227/) · [Email](hivishwakarma502@gmail.com) · [Himanshu.dev](https://new-portfolio-bay-xi.vercel.app/)
+- 📫 Reach me: 
 
 ## 📂 Featured Projects
 
@@ -46,9 +49,9 @@ My personal portfolio site showcasing projects and experience.
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,cpp,typescript,javascript,react,nextjs,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,nodejs,express,postgresql,mongodb,supabase" />
   <br>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,supabase,tailwindcss,bootstrap,html,css,git,docker" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,tailwindcss,bootstrap,html,css,git,postman" />
   <br>
   <strong>+ AI/ML Layer:</strong> LangGraph · MCP · Claude · Ollama · Eval Harnesses
 </div>
